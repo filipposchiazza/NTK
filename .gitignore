@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyz
+*.pyw
+*.pyx
+*.px[di]
+*.pxd
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Models
+models/
+
+# Results
+Result_examples/
+
+# Config
+config.py
+
+# Misc
+.DS_Store
+.vscode/
+*.swp
+*.bak
+*.log
