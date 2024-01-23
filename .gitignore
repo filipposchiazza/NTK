@@ -28,3 +28,6 @@ config.py
 *.swp
 *.bak
 *.log
+
+# Git
+.gitignore.save
